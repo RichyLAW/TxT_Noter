@@ -10,6 +10,7 @@
 <p align="center"><img src="https://github.com/RichyLAW/TxT_Noter/blob/main/TxT_Noter_image2.png" width="50%"></p>
 <p align="center">Button animations.</p>
 <br>
+
 ---
 <h3 align="center">State rightnow</h3>
 <p align="center">Fully working</p>
