@@ -28,3 +28,9 @@
 ---
 <h3 align="center">When is the release?</h3>
 <p align="center">The project is almost complete. I'm currently working on the settings and integration of AvaloniaEdit.</p>
+
+---
+<h3 align="center">FAQ</h3>
+<p align="center">What font did i used Nouveau IBM Stretch by Arto Hatanpää</p>
+<p align="center">Linux and Mac support? SOON</p>
+<p align="center">Is it Virus? No</p>
