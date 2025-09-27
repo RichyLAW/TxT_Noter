@@ -31,6 +31,6 @@
 
 ---
 <h3 align="center">FAQ</h3>
-<p align="center">What font did i used Nouveau IBM Stretch by Arto Hatanpää</p>
+<p align="center">What font did i used? Nouveau IBM Stretch by Arto Hatanpää</p>
 <p align="center">Linux and Mac support? SOON</p>
 <p align="center">Is it Virus? No</p>
