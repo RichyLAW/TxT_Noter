@@ -37,3 +37,8 @@
 <p align="center">What font did i used? Nouveau IBM Stretch by Arto Hatanpää</p>
 <p align="center">Linux and Mac support? SOON</p>
 <p align="center">Is it Virus? No</p>
+
+---
+<h3 align="center">Ideas</h3>
+<p align="center">Any Ideas? Contact Me:</p>
+<p align="center">👾Discord richy5963</p>
