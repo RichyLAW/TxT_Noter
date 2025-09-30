@@ -18,7 +18,7 @@
 <br>
 <h3 align="center">Planned features before release</h3>
 <p align="center">Settings: Lines, Line Counter, Letter Counter, Fonts, Custom colors, Font size, Font Family</p>
-<p align="center">Resizeing Window and maximize per Snap</p>
+<p align="center">Resizeing Window and aero snap</p>
 <p align="center">Make it faster</p>
 <p align="center">Setting Menu for font,...</p>
 <p align="center">Fully Linux and MacOs compatible</p>
